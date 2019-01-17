@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cherrapunji @DAY 2"
-date:   2019-01-15 21:49:00
+date:   2019-01-16 21:49:00
 author: Ayush Choudhary
 categories: Blog3
 ---
