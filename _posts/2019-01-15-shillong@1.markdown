@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "SHillong @DAY 1"
-date:   2019-01-14 21:02:00
+date:   2019-01-15 21:02:00
 author: Ayush Choudhary
 categories: Blog2
 ---
