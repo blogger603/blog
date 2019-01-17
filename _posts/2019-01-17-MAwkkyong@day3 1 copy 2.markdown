@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Mawlynnong @DAY 2"
-date:   2019-01-17 22:37:00
+title:  "Mawlynnong @DAY 3"
+date:   2019-01-17 22:37git:00
 author: Ayush Choudhary
 categories: Blog4
 ---
