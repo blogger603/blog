@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Mesmerizing Shillong (Meghalaya): The Switzerland of East!"
+date:   2019-01-14 21:02:00
+author: Ayush Choudhary
+categories: Blog1
+---
+
+First line of blog.
